@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "939490667570",
+    "firebase_url": "https://fir-proyecto-e03a5.firebaseio.com",
+    "project_id": "fir-proyecto-e03a5",
+    "storage_bucket": "fir-proyecto-e03a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939490667570:android:1b17736f3a42b197",
+        "android_client_info": {
+          "package_name": "com.delaroystudios.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939490667570-oj83s2i0nfi9u0eu9kvuf45atj08rmqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXdcA3E_wXqi79f9Hpv2F512IOwAyX-OI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939490667570:android:14e0f4037127a5bd",
+        "android_client_info": {
+          "package_name": "com.example.yelitza.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939490667570-oj83s2i0nfi9u0eu9kvuf45atj08rmqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXdcA3E_wXqi79f9Hpv2F512IOwAyX-OI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
