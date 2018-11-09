@@ -9,14 +9,14 @@
         android:id="@+id/edit_text_email_id"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/email"
+        android:hint="Ingrese Correo"
         android:inputType="textEmailAddress" />
 
     <EditText
         android:id="@+id/edit_text_password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/password"
+        android:hint="Contraseña"
         android:inputType="textPassword" />
 
     <android.support.v4.widget.Space
@@ -33,7 +33,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
-            android:text="@string/login" />
+            android:text="INGRESAR" />
 
         <Button
             android:id="@+id/button_register"
@@ -42,7 +42,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
-            android:text="@string/login_register" />
+            android:text="Registrar un nuevo usuario!" />
 
     </RelativeLayout>
 
